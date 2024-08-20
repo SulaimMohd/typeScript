@@ -17,3 +17,5 @@ const arrowFn = (isPlaced : boolean = true):boolean =>{
 }
 
 // above fun is example for arrow fuction and how assign a default value
+
+export {}
