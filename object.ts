@@ -22,8 +22,7 @@ const newObj = {
 }
 somFunction(newObj)
 
-// this is due broder use of object but when we passing the directly it will stick into the defintion to avoid that we can use type aliases
-// check the type.ts file
+// this is due broder use of object but when we passing the directly it will stick into the defintion otherwise (if passing through pther varable) it will ignore the properties that are presented only chceck for required properteis are presented or not
 
 
 
