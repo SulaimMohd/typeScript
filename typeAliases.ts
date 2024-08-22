@@ -55,4 +55,6 @@ const user2 ={
 myUserTypeFn(user1) 
 
 
+
+
 export {}
