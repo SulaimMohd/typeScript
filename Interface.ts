@@ -13,7 +13,7 @@ const obj : MyInterface = {
   isMarried: false
 }
 
-class myClass implements MyInterface{
+class class22 implements MyInterface{
   name: string
   age: number
   isMarried: boolean
